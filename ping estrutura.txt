@@ -4,8 +4,8 @@
 Mobile:
 .div geral class "container" - flex direction: Column
 
-	h1 class "title"
-	h2 class "subtitle" (nota: atenção à zona isolada de texto a negrito)
+	img class "logo"
+	h1 class "title" (nota: atenção à zona isolada de texto a negrito)
 	p class "informative title"
 	
 	.div class "form container" - flex direction:Column
