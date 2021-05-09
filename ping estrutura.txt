@@ -1,0 +1,26 @@
+1º - versão mobile
+2º- versão desktop
+
+Mobile:
+.div geral class "container" - flex direction: Column
+
+	h1 class "title"
+	h2 class "subtitle" (nota: atenção à zona isolada de texto a negrito)
+	p class "informative title"
+	
+	.div class "form container" - flex direction:Column
+		.input class "input container"(nota: quando ativo tem um contorno vermelho e fazer display none para a notificação em p class "provide email alert" display none (quando o email não tiver nem @ nem .)
+		.button class "notify button" (nota:hover no botao, com pointer no cursor e sombra)
+
+
+	.image class "graphics"
+
+	.div class "social media buttons" - flex direction row
+		.button class "facebook button"
+		.button class "twitter button"
+		.button class "instagram button"
+		(nota:hover nos botoes, com pointer no cursor)
+
+
+
+	.p class "copyright"
